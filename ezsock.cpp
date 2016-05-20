@@ -1,5 +1,5 @@
 /* ---------------------------------------------------------------------------
-** ezsock.h
+** ezsock.cpp
 ** This EZSock is intended for C++ user to access
 ** the basic interface of C socket, easily.
 **
