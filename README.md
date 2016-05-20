@@ -1,6 +1,8 @@
 # EZSock
 An easy interface for C++ Socket programming
 
+![A general diagram explaning how Socket work](SocketCycle.png)
+
 This software is intend to provide an easy interface with an object oriented style for C++ users to access the C socket
 With the initial release, EZSock only has 2 functions in order to transmit the data through a network easily:
 -send
