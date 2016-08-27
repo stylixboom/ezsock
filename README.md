@@ -1,5 +1,6 @@
 # EZSock
-**The fabric of the code is done, but not all have been implemented. The project is mainly to give some idea of how to do sock programming**
+* The fabric of the code is done, but not all have been implemented. The project is mainly to give some idea of how to do sock programming. *
+
 An easy interface for C++ Socket programming
 
 ![A general diagram explaning how Socket work](SocketCycle.png)
